@@ -8,7 +8,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Video Demonstration</h2>
 
-- ### How To Configure osTicket, post-installation https://www.flexclip.com/share/1836597854cd0ad91914967bf22baad89b6db12.html
+- ### <a href="https://www.flexclip.com/share/1836597854cd0ad91914967bf22baad89b6db12.html">How To Configure osTicket, post-installation </a>
 
 <h2>Environments and Technologies Used</h2>
 
